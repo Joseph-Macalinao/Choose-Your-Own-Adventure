@@ -1,7 +1,7 @@
 import random
 from monsters import monster_naming
 battle_intro = "You have entered combat "
-
+a;lk sfdjl;ajfk's;dkjf 
 
 def battle():
     player_health = 20
